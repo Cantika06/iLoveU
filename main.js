@@ -4,11 +4,11 @@ onload = () => {
     const textElement = document.querySelector(".typing-text");
 
     const messages = [
-        "Hai Cantika ❤️",
-        "Aku punya sesuatu untukmu 🌷",
-        "Terima kasih sudah hadir 😊",
+        "Hai Mas Gilang ❤️",
+        "Terimakasih Sudah Mengucapkan Cinta setiap Hari 🌷",
+        "Terimakasih Untuk Dongeng 10/10 itu  😊",
         "Semoga harimu selalu indah ✨",
-        "I Love You ❤️"
+        "I Love You Dikit❤️"
     ];
 
     let messageIndex = 0;
